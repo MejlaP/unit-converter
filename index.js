@@ -22,7 +22,7 @@ const renderResults = () => {
         resultLitersGallonsEl.textContent = `${basicValue} liters = ${literGallon} gallons | ${basicValue} gallons = ${gallonLiter} liters`
         resultKilogramsPoundsEl.textContent = `${basicValue} kilos = ${kiloPound} pounds | ${basicValue} pounds = ${poundKilo} kilos`
     } else {
-        resultMeterFeetEl.textContent = resultLitersGallonsEl.textContent = resultKilogramsPoundsEl.textContent = "Zadejte kladné číslo"
+        resultMeterFeetEl.textContent = resultLitersGallonsEl.textContent = resultKilogramsPoundsEl.textContent = "Insert only positive number"
     }
 }
 
