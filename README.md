@@ -1,4 +1,4 @@
-# Password Generator
+# Unit Converter
 ## Scrimba Solo Project Javascript
 ### Requirements
 
